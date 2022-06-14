@@ -1,7 +1,7 @@
 CREATE DATABASE book_search;
 
 -- Switch connection to a new database
-\c book_search
+\c book_search;
 
 -- create table books
 CREATE TABLE books(
